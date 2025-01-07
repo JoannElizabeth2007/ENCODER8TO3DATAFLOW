@@ -66,7 +66,7 @@ endmodule
 
 ![Screenshot 2024-12-28 195237](https://github.com/user-attachments/assets/eac9e4c0-289e-4832-a3bf-3ac261f8f9ab)
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**TIMING DIAGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 ![image](https://github.com/user-attachments/assets/b22b9825-2d12-42d3-9a53-c40d67a77ea2)
 
